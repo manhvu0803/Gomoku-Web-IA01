@@ -1,0 +1,13 @@
+.Square {
+	height: 5rem;
+	width: 5rem;
+	vertical-align: top; /* Keep the button from dropping down after setting inner text */
+}
+
+.Square.highlight {
+	background-color: greenyellow;
+}
+
+button {
+	font-size: xx-large;
+}
